@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Belén
-- 🔭 I’m currently working on <a href="https://github.com/SBelenB/Proyecto_Final">Web Portfolio</a>
+- 🔭 I’m currently working on the <a href="https://github.com/SBelenB/Proyecto_Final">Final Project</a> for the web development course at Informatorio
 - 🌱 Data Analysis and Management student at Universidad Nacional de San Luis
 - 📫 How to reach me: rbelengimenez8@gmail.com
 
