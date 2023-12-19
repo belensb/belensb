@@ -3,14 +3,16 @@
 </div>
 <img src="https://i.imgur.com/Qe95Me0.jpg">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## Sobre mi
 
 - 💻 Web Developer
 - 📊 Data Analyst
 - 🔭 I’m currently working on the <a href="https://github.com/SBelenB/Proyecto_Final">Final Project</a> for the web development course at <a href="https://empleo.chaco.gob.ar/informatorio#/">Informatorio</a>
-- 📚 Data Analysis and Management student at Universidad Nacional de San Luis
+- 📚 Data Analysis and Management student at UNSL
 
-# Stack
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Stack</b>
 ## Front End
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
