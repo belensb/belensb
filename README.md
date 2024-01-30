@@ -15,7 +15,7 @@
 
 <b>Let's connect!</b><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belengimenez/)
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-924BB4?style=for-the-badge&link=https%3A%2F%2Fbelenrb.netlify.app%2F)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-924BB4?style=for-the-badge)](https://belenrb.netlify.app/)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Stack</b>
 ### Data
