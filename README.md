@@ -10,8 +10,8 @@
 
 - 📊 Data Analyst
 - 💻 Web Developer
-- 🔭 I’m currently working on 
-- 📚 Bachelor in Data Analysis and Management student at UNSL
+- 💻 Bachelor of Computer Science student at UBA
+- 📚 Bachelor of Data Analysis and Management student at UNSL
 
 <b>Let's connect!</b><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belengimenez/)
