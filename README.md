@@ -1,6 +1,4 @@
-<img src="https://i.imgur.com/Qe95Me0.jpg">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://i.imgur.com/tdNCZGb.gif">
 
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://linkedin.com/in/belengimenez">Belén</a> 👋</h1>
@@ -10,7 +8,6 @@
 
 - 📊 Data Analyst
 - 💻 Web Developer
-- 💻 Bachelor of Computer Science student at UBA
 - 📚 Bachelor of Data Analysis and Management student at UNSL
 
 <b>Let's connect!</b><br>
