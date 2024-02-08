@@ -1,10 +1,8 @@
 <img src="https://i.imgur.com/tdNCZGb.gif">
 
-<div align="center">
 <h1 align="center">Hello, I'm <a href="https://linkedin.com/in/belengimenez">Belén</a> 👋</h1>
-</div>
 
-## About Me
+## <img src="https://i.imgur.com/UkMnRQ4.gif" width ="25"><b> About Me</b>
 
 - 📊 Data Analyst
 - 💻 Web Developer
@@ -14,10 +12,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belengimenez/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-924BB4?style=for-the-badge)](https://belenrb.netlify.app/)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Stack</b>
+## <img src="https://i.imgur.com/VzwPbwF.gif" width ="25"><b> Stack</b>
 ### Data
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
