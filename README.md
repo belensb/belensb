@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tdNCZGb.gif">
+<img src="https://i.imgur.com/TjF43Q8.gif">
 
 <h1 align="center">Hello, I'm <a href="https://linkedin.com/in/belengimenez">Belén</a> 👋</h1>
 
