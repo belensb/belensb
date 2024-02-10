@@ -10,7 +10,7 @@
 
 <b>Let's connect!</b><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belengimenez/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-924BB4?style=for-the-badge)](https://belenrb.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-924BB4?style=for-the-badge)](https://belengimenez.co/)
 
 ## <img src="https://i.imgur.com/VzwPbwF.gif" width ="25"><b> Stack</b>
 ### Data
