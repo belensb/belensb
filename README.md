@@ -1,30 +1,38 @@
-<h1 align="center">Hello, I'm <a href="https://linkedin.com/in/belengimenez">Belén</a> 👋</h1>
+<h1>Hello, I'm <a href="https://linkedin.com/in/belengimenez">Belén</a> 👋</h1>
 
-<img src="https://i.imgur.com/UkMnRQ4.gif" width ="25"><b> I'm a software developer from Argentina</b>
+### <img src="https://i.imgur.com/UkMnRQ4.gif" width ="30"> I'm a software developer from Argentina <img src="https://www.svgrepo.com/show/405411/flag-for-flag-argentina.svg" height="30" width="32" align="center">
+
+📚 Data Analysis and Management student at UNSL <br>
+📚 Software Development student at IFTS29 <br>
+🤓 Currently learning <b>C & C#</b>
 
 <b>Let's connect!</b><br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belengimenez/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-924BB4?style=for-the-badge)](https://belengimenez.co/)
 
-## <img src="https://i.imgur.com/VzwPbwF.gif" width ="25"><b> Stack</b>
-### Development
+[<img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="50" width="52" alt="linkedin-logo" />](https://www.linkedin.com/in/belengimenez/)
+[<img src="https://www.svgrepo.com/show/454707/responsif-seo-website.svg" height="55" width="62" alt="portfolio" />](https://belengimenez.co/)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### <img src="https://i.imgur.com/VzwPbwF.gif" width ="25"> I build stuff with...
 
-### Data
+<div>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" height="50" width="62" alt="java" />
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" height="50" width="62" alt="spring" />
+  <img src="https://www.svgrepo.com/show/374016/python.svg" height="50" width="62" alt="python" />
+  <img src="https://www.svgrepo.com/show/373554/django.svg" height="50" width="62" alt="django" />
+  <img src="https://www.svgrepo.com/show/373848/mysql.svg" height="50" width="62" alt="mysql" />
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="50" width="62" alt="aws" />
+  <img src="https://www.svgrepo.com/show/354926/docker.svg" height="50" width="62" alt="docker" />
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 Data Analysis & Machine Learning Tools
 
-<!---
-SBelenB/SBelenB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img src="https://th.bing.com/th/id/OIP.CMfBVcX4VozfYWR2Scu22AHaC_?rs=1&pid=ImgDetMain" height="40" alt="pandas" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="35" alt="matplotlib" />
+  <img src="https://velog.velcdn.com/images/olxtar/post/be9e4e5c-b221-4311-9868-8defc3d1ce65/image.png" height="45" alt="numpy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" height="40" alt="tensorflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Pytorch-svgrepo-com.svg" height="40" alt="pytorch" />
+</div><br>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dark&hide_border=false&username=belensb&hide=css,scss,html,astro" height="150" alt="languages graph"  />
+
