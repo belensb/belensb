@@ -23,16 +23,20 @@
   <img src="https://www.svgrepo.com/show/354926/docker.svg" height="50" width="62" alt="docker" />
 </div>
 
+<!-- Esto no será visible.
 ### 📊 Data Analysis & Machine Learning Tools
 
 <div>
-  <img src="https://th.bing.com/th/id/OIP.CMfBVcX4VozfYWR2Scu22AHaC_?rs=1&pid=ImgDetMain" height="40" alt="pandas" />
+  //<img src="https://th.bing.com/th/id/OIP.CMfBVcX4VozfYWR2Scu22AHaC_?rs=1&pid=ImgDetMain" height="40" alt="pandas" />
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="35" alt="matplotlib" />
   <img src="https://velog.velcdn.com/images/olxtar/post/be9e4e5c-b221-4311-9868-8defc3d1ce65/image.png" height="45" alt="numpy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" height="40" alt="tensorflow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Pytorch-svgrepo-com.svg" height="40" alt="pytorch" />
-</div><br>
+</div>
+-->
+<br>
+
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dark&hide_border=false&username=belensb&hide=css,scss,html,astro" height="150" alt="languages graph"  />
 
