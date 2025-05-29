@@ -4,12 +4,12 @@
 
 📚 Data Analysis and Management student at UNSL <br>
 📚 Software Development student at IFTS29 <br>
-🤓 Currently learning <b>C & C#</b>
+🤓 Currently learning <b>C#</b>
 
 <b>Let's connect!</b><br>
 
 [<img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="50" width="52" alt="linkedin-logo" />](https://www.linkedin.com/in/belengimenez/)
-[<img src="https://www.svgrepo.com/show/454707/responsif-seo-website.svg" height="55" width="62" alt="portfolio" />](https://belenrb.netlify.app/)
+<!--[<img src="https://www.svgrepo.com/show/454707/responsif-seo-website.svg" height="55" width="62" alt="portfolio" />](https://belenrb.netlify.app/)-->
 
 ### <img src="https://i.imgur.com/VzwPbwF.gif" width ="25"> I build stuff with...
 
